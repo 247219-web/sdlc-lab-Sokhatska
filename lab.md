@@ -13,7 +13,7 @@
 ## 3. Дизайн (Прототип)
 
 <img width="1828" height="906" alt="image" src="https://github.com/user-attachments/assets/842e29e4-ad67-43e9-8d90-d46021fd8545" />
-<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/e15a90dc-331d-4dce-9bf7-a78bccec7f1e" />
+![Uploading image.png…]()
 
 
 **Опис екранів прототипу:**
